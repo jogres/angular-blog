@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+*{
+  background-color: #121212;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color:white;
+  font-family: 'segoe UI';
+}
+
+a{
+  text-decoration: none;
+}
